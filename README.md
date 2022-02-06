@@ -1,5 +1,7 @@
 # Python CDC Covid Analysis CLI
 
+*This was a project for my CSCE 364 Data Mining and Machine Learning course*
+
 ## CLI Menu Items
 1) Duplicate the original file, save it into the project directory 
 2) Copy the data from the original data (data is all rows except rows 1,2,3) into the project directory
